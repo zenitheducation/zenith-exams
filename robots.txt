@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zenitheducation.github.io/zenith-exams/sitemap.xml
